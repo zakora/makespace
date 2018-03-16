@@ -1,0 +1,18 @@
+= Make Space
+
+A firefox add-on to free up some screen space.
+
+This add-on will hide any fixed elements that clutter the web page,
+especially useful on small screens.
+
+image::makespace_ffmpeg.gif[Make Space demo]
+
+== Getting Started
+
+Download the add-on: https://addons.mozilla.org/en-US/firefox/addon/makespace/
+
+== Building the add-on
+
+Get a copy of this repository either by downloading it or by git cloning it.
+Then a `make` will build the add-on as `makespace.xpi`, which can be loaded
+into firefox by going to the `about:debugging` page.
