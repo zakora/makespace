@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "makespace",
-    "version": "1.0",
+    "version": "1.1",
     "description": "Make space by removing all fixed elements on a page.",
 
     "background": {
