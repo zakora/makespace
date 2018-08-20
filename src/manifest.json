@@ -9,7 +9,7 @@
     },
 
     "page_action": {
-        "default_icon": "icons/makespace_off.svg",
+        "default_icon": "icons/makespace.svg",
         "default_title": "Make space",
         "show_matches": [
             "http://*/*",

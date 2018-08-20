@@ -2,8 +2,7 @@
 makespace.xpi:
 	cd src \
 	&& zip -r -FS $@ * --include \
-	    icons/makespace_off.svg \
-	    icons/makespace_on.svg \
+	    icons/makespace.svg \
 	    background.js \
 	    makespace.js \
 	    manifest.json \
